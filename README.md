@@ -21,13 +21,18 @@ Lucii showcases how AI on Edge and the Matrix protocol can bring together the ri
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+--todo:  content for this section
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## License
+- This project is licensed under [Apache 2.0](LICENSE). Copyright 2024 , Hochschule Heilbronn.
+
+## Acknowledgments
+
+This project was developed as part of the **InduKo Project**, funded by **Stiftung Innovation in der Hochschullehre**. We also acknowledge the support from students, faculty, and contributors who have been part of this collaborative effort.
+
+For more information about the InduKo research project, visit the official website.
