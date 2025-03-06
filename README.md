@@ -21,8 +21,83 @@ Lucii showcases how AI on Edge and the Matrix protocol can bring together the ri
 
 ## Getting Started
 
---todo:  content for this section
+Prerequisites
 
+To set up Lucii, ensure you have:
+
+Flutter SDK (for app development)
+
+Dart SDK (included with Flutter)
+
+Android Studio or VS Code (for testing on an emulator or physical device)
+
+Matrix Dendrite Server (for decentralized messaging)
+
+Gemini Nano API (for on-device AI)
+
+
+Installation
+
+1. Clone the Repository:
+
+git clone <Lucii-repo-link>
+cd Lucii
+
+
+2. Install Dependencies:
+
+flutter pub get
+
+
+3. Run the App:
+
+flutter run
+
+
+
+
+---
+
+Lucii Features in Detail
+
+1. AI-Powered Profile Matching
+
+Users provide profile information in natural language.
+
+Gemini Nano extracts keywords to categorize user interests.
+
+Profiles are matched locally without sending data to external servers.
+
+
+2. Post Creation & Discovery
+
+Users can create posts related to research interests.
+
+Posts are tagged using on-device AI, ensuring relevance and personalization.
+
+Users can browse and engage with posts based on personalized recommendations.
+
+
+3. Anonymous Messaging
+
+Users can reply to posts anonymously via Matrix.
+
+Initial messages remain private until users opt to reveal identities.
+
+Conversations occur securely within the decentralized Matrix network.
+
+
+4. On-Device AI Processing
+
+Gemini Nano processes user input locally, ensuring full privacy.
+
+AI refines user profiles, adapting to engagement patterns.
+
+No centralized data collection occurs.
+
+
+
+---
 
 
 
